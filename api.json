@@ -1,5 +1,5 @@
 {
-  "spider": "https://d.kstore.dev/download/12854/spide.jar;md5;e727792f1b1d3c983e3026ce633b9ad5",
+  "spider": "./spide.jar;md5;e727792f1b1d3c983e3026ce633b9ad5",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "sites": [
     {
