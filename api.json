@@ -1,5 +1,5 @@
 {
-  "spider": "./spider2.jar;md5;466fd45c357313a23e0e05d201b38d6c",
+  "spider": "./spider4.jar;md5;8955438dfb72b640c1b1bb4e9c382dce",
   "wallpaper": "https://t.alcy.cc/fj",
   "sites": [
     {
@@ -9,9 +9,9 @@
       "api": "csp_Douban",
       "searchable": 0
     },
-    {
+       {
       "key": "配置中心",
-      "name": "配置｜中心",
+      "name": "配置 • 中心",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -19,7 +19,7 @@
       "indexs": 0,
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.618
       }
     },
     {
